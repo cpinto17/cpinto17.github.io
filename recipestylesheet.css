@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Halant);
+@import url(https://fonts.googleapis.com/css?family=Calligraffitti);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+h1 {
+  font-weight: 700;
+  font-family: "calligraffitti", sans-serif;
+  color: red;
+}
+
+h2 {
+  font-weight: 300;
+  font-weight: bold;
+  font-family: "calligraffitti", sans-serif;
+  color: red;
+}
+
+p{
+  font-weight: bold;
+  font-family: "lobster", sans-serif;
+  color: brown;
+}
+
+ul{
+  font-family: "halant", sans-serif;
+  color: brown;
+  font-size: 15px;
+}
+
+ol{
+  font-family: "halant", sans-serif;
+  color: brown;
+  font-size: 15px;
+}
