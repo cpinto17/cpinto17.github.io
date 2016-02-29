@@ -1,0 +1,8 @@
+1. By setting the border-box property the size of the divs becomes smaller.
+2. By floating both divs right, both boxes move to the right side of the page.
+3. By floating both divs to the left, both boxes move to the left side of the page
+4. By resizing the browser, you are unable to see the divs that are to one side of the page.
+5. By floating the divs to different sides, causes one div to go to the right of the page and the other go to the left.This leaves a blank space between the two divs.
+6. Div 1 column is spread across the top of section above div 2 that stays the same size.
+7. Once resized, both div boxes move on the page to fit the intended width.
+9. If you resize your browser window the divs condense so you can see their full size.   
