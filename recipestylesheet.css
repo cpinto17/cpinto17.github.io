@@ -32,3 +32,16 @@ ol{
   color: brown;
   font-size: 15px;
 }
+
+#Ingredients {
+  float: left;
+  width: 45%;
+  padding: 5px;
+}
+
+#Directions {
+  float: left;
+  width: 45%;
+  padding: 5px;
+  border-left: solid 2px black;
+}
