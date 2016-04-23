@@ -1,0 +1,88 @@
+@import url(https://fonts.googleapis.com/css?family=Halant);
+#container2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 450px;
+  float: left;
+}
+#container1 {
+  width: 100%;
+  padding: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+h1 {
+  text-align:center;
+  font-family: 'Halant',sans-serif;
+  color: black;
+  font-size: 300%;
+  margin: auto;
+  padding: 30px;
+  color: red;
+}
+h2 {
+  text-align: center;
+  font-family: 'Halant', sans-serif;
+  color: black;
+  margin: auto;
+}
+h3 {
+  text-align: center;
+  font-family: 'Halant', sans-serif;
+  color: black;
+  margin: auto;
+}
+#Header1{
+  font-size: 150%;
+  background-color: grey;
+  text-align: left;
+  width: 50%;
+  float: left;
+}
+#Header2{
+  font-size: 150%;
+  background-color: grey;
+  text-align: right;
+  width: 50%;
+  float: right;
+}
+#Mission {
+  float: right;
+  margin: auto;
+  width:40%;
+}
+#Events{
+  float: right;
+}
+h5{
+  font-family: 'Halant', sans-serif;
+  color: black;
+  margin: auto;
+    font-size: 100%;
+}
+#container3{
+  width: 25%;
+  float: left;
+}
+#container4{
+  width: 25%;
+  float: left;
+}
+#container5{
+  width: 25%;
+  float: left;
+}
+#container6{
+  width:25%;
+  float: left;
+}
+h4{
+  font-family: 'Halant', sans-serif;
+  color: black;
+  margin: auto;
+  font-size: 100%;
+}
+p{
+  font-size: 100%;
+}
