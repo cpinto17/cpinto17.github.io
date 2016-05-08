@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=Halant);
+@import url(https://fonts.googleapis.com/css?family=Calligraffitti);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+h1 {
+text-align:center;
+font-family: "calligraffitti", sans-serif;
+color: black;
+font-size: 300%;
+margin: auto;
+padding: 30px;
+}
+
+#container1{
+  padding-left: 40px;
+  padding-right: 10px;
+}
+
+h2 {
+  font-family: 'Slabo 27px', serif;
+  color: black;
+  margin: auto;
+  font-size: 175%;
+  text-align: center;
+}
+
+
+#container2{
+  padding: 20px;
+  padding-top: 50px;
+  padding-left: 75px;
+}
+
+#container3{
+  padding: 20px;
+}
+
+#container4{
+  padding-top: 20px;
+  padding-left: 70px;
+}
+ p{
+   font-weight: bold;
+   font-family: "calligraffitti", sans-serif;
+   font-size: 170%;
+ }
+
+#container5{
+  padding-bottom: 40px;
+  padding-left: 1px;
+  padding-top: 20px;
+}
+
+#container6{
+  padding-left: 70px;
+
+}
+
+#container7{
+  width: 100%;
+  padding-left: 8%;
+  padding-top: 3%;
+  padding-right: 8%;
+}
+
+p6{
+  font-size: 150%;
+  font-family: "calligraffitti", sans-serif;
+}
+
+p2{
+  font-family: 'Slabo 27px', serif;
+  font-size: 120%;
+}
+
+p3{
+  font-family: 'Slabo 27px', serif;
+  font-size: 120%;
+
+}
